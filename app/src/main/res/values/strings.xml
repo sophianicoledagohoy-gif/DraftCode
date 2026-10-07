@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DraftCode</string>
+    <string name="logo">Logo</string>
+    <string name="welcome">Welcome!</string>
+    <string name="we_re_glad_you_re_here_welcome_to_our_community">We\'re glad you\'re here. Welcome to our community!</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="Logo">Logo</string>
+    <string name="login">LOGIN</string>
+    <string name="clear">CLEAR</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

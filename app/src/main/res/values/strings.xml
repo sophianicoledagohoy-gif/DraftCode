@@ -19,4 +19,7 @@
     <string name="logout">LOG OUT</string>
     <string name="logged_in_email">Logged in as: %1$s</string>
     <string name="profile_email">Your email address: %1$s</string>
+    <string name="register">REGISTER</string>
+    <string name="register_title">Create an Account</string>
+    <string name="create_account">CREATE ACCOUNT</string>
 </resources>
